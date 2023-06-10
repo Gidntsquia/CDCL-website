@@ -7,9 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Dr. Derek A. Paley
+Director, Maryland Robotics Center
+Director, UMD Autonomous Micro Air Vehicle Team
+Principal Investigator, AI and Autonomy for Multi-Agent Systems (ArtIAMAS)
+Director, Collective Dynamics and Control Laboratory
+Willis H. Young Jr. Professor of Aerospace Engineering Education
+Department of Aerospace Engineering and Institute for Systems Research, University of Maryland
+Office: 3150 Martin Hall, 4298 Campus Dr., College Park, MD 20742
+(301) 405-5757 | (301) 314-0213 (fax)
+Lab: 3247 Kim Engineering Building, 8228 Paint Branch Dr.
+dpaley@umd.edu | http://cdcl.umd.edu
 
 {%
   include button.html
@@ -20,14 +28,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(301) 405-5757 "
+  link="+1-301-405-5757"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/BxeH5JCDhFsvvnuUA"
 %}
 
 {% include section.html %}
@@ -36,8 +44,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/derek_paley.jpg"
+  caption="Derek Paley, Director of the Lab"
 %}
 
 {% endcapture %}
@@ -46,32 +54,11 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/kim_building.jpg"
+  caption="Our Lab"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

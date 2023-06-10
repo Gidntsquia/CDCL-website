@@ -1,9 +1,9 @@
 ---
 ---
 
-# Gidntsquia's Website
+# Welcome to the website of the Collective Dynamics and Control Laboratory
 
-An engaging 1-3 sentence description of your lab.
+This lab's goal is to research dynamics and control, including cooperative control of autonomous vehicles, adaptive sampling with mobile networks, spatial modeling of biological groups, and bioinspired robotics. Please feel free to reach out to us with questions and inquiries!
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We've publised 2 books, 76 journal articles, and 103 conference papers since 2017!
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out our active projects!
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See who makes the lab run!
 
 {%
   include button.html

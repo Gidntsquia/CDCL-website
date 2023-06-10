@@ -1,18 +1,15 @@
 # site properties and page defaults
-title: Gidntsquia
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Collective Dynamics and Control Laboratory
+subtitle: <i>University of Maryland</i>
+description: This lab's goal is to research dynamics and control, including cooperative control of autonomous vehicles, adaptive sampling with mobile networks, spatial modeling of biological groups, and bioinspired robotics.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@Gidntsquia.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Gidntsquia
-  twitter: Gidntsquia
-  youtube: Gidntsquia
+  email: dpaley@umd.edu
+  youtube: xpaley
+  facebook: people/Collective-Dynamics-and-Control-Laboratory/100057044486980/
 
 ### jekyll settings
 
